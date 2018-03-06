@@ -57,6 +57,13 @@
     height: 45px;
     width: fit-content;
     padding: 0 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.nav-box:hover {
+    background-color: lightgray
+    
 }
     
     
