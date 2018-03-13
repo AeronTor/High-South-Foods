@@ -62,11 +62,26 @@
 }
 
 .nav-box:hover {
-    background-color: lightgray
-    
+    background: #e5b082;
+
 }
-    
-    
+
+/* ----- dropdown aspect of main nav -----------    
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #e5b082;
+    min-width: 160px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
 }
 /* ----- footer ------------*/
 
@@ -126,4 +141,16 @@ footer {
     
 }
 
+/* ----- Media query ------------*/
 
+@media (max-with: 767px) {
+
+}
+
+@media (max-with: 991px) {
+
+}
+
+@media (max-with: 1199px) {
+    
+}
