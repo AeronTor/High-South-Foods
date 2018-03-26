@@ -7,7 +7,7 @@ Kentuckiana Food Paths is the online, public facing part of the Kentuckiana Food
 KFAS was a regional study in the Kentuckiana area that focused on the capacity of small, local farmers to produce and aggregate their products both in scale and efficiency to become viable producers for large-scale retailer supple chains (Kroger, Walmart, etc.).
 
 ## What is the purpose of Kentuckiana Food Paths?
-The purpose of this project is to provide streamlined accessibility to the study its findings and conclusions with farmers and laypersons being the target audience.  The goals of the website are to 1. Make the content as approachable as possible and 2. to highlight three documents that decribe the study and its conclusions in detail.
+The purpose of this project is to provide streamlined accessibility to the study, its findings, and it's conclusions with farmers and laypersons being the target audience.  The goals of the website are to 1. Make the content as approachable as possible and 2. to highlight three documents that decribe the study and its conclusions in detail.
 
 ## Is this the final version of this project?
 No.  After beginning this project without using HTML or CSS frameworks we have decided that the project would be better developed using Bootstrap or as a Wordpress site.
