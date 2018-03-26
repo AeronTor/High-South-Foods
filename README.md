@@ -22,8 +22,8 @@ The project CSS selectors are:
 * #footer-title, #footer-sub: These ID's provide styling for the footer and it's text
 
 ###### Classes
-*.nav-box, .nav-box:hover: These classes determine the style and layout of the individual nav elements as well as create a hover effect when moused over
-*.section-header: This class focuses on the styling and position of all headers for the different sections of the page that correspond to the nav elements
-*.text-area: This class was added to all the div elements surround the p tags to create a comfortable space between sections and their title elements
+* .nav-box, .nav-box:hover: These classes determine the style and layout of the individual nav elements as well as create a hover effect when moused over
+* .section-header: This class focuses on the styling and position of all headers for the different sections of the page that correspond to the nav elements
+* .text-area: This class was added to all the div elements surround the p tags to create a comfortable space between sections and their title elements
 
 ## What Javascript was used?
