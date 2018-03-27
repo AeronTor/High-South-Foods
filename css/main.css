@@ -69,24 +69,29 @@
     background: #e5b082;
 
 }
-
-/* ----- dropdown aspect of main nav -----------    
-
-.dropdown {
-    position: relative;
-    display: inline-block;
+/* ----- Modal ------------*/
+ 
+.modal {
+    position: fixed;
+    width: 50%;
+    height: 50%;
+    visibility: hidden;
 }
 
-.dropdown-content {
-    display: none;
+.modal-content {
     position: absolute;
-    background-color: #e5b082;
-    min-width: 160px;
+
 }
 
-.dropdown:hover .dropdown-content {
-    display: block;
+.close-button {
+    float: right;
+    text-align: center;
+    cursor: pointer;
+    background-color: #41516b;
+    color: white;
+    
 }
+
 /* ----- footer ------------*/
 
 footer {
@@ -172,6 +177,7 @@ footer {
         margin-top: 5px;
         display: flex; 
         font-size: 1em;
+        height: 1.5em;
 
     }
     .section-header {
