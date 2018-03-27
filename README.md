@@ -27,3 +27,4 @@ The project CSS selectors are:
 * .text-area: This class was added to all the div elements surround the p tags to create a comfortable space between sections and their title elements
 
 ## What Javascript was used?
+The project has one simple JavaScript function that displays a modal and then hides it when either the original button or the close button are pressed.  It does this primarily through toggling the class of the html element from one which is visibility: hidden to visibility: visible. 
