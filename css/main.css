@@ -38,7 +38,8 @@
     list-style-type: none;
     display: flex;
     /*color: white;  
-    background: #cc9e73;*/
+    background: #cc9e73;
+    I was using comments to temporarily drop styling I wanted to experiment with.*/
     height: 50px;
     max-width: 60%;
     justify-content: space-around;
@@ -199,10 +200,3 @@ footer {
 
     }
 }
-/* @media (max-with: 991px) {
-
-}
-
-@media (max-with: 1199px) {
-    
-} */
