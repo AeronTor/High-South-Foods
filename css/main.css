@@ -87,9 +87,16 @@
     float: right;
     text-align: center;
     cursor: pointer;
-    background-color: #41516b;
+    background-color: #e5b082;
     color: white;
-    
+}
+
+.reveal {
+    visibility: visible;
+}
+
+.close-button:hover {
+    background-color: #41516b;
 }
 
 /* ----- footer ------------*/
