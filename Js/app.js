@@ -7,7 +7,7 @@ function toggleModal () {
 }
 
 function buttonClick(e){
-    if (event.target === modal) {
+    if (e.target === modal) {
         toggleModal();
     }
 }
