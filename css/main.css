@@ -180,7 +180,7 @@ In the end I decided I liked it better without*/
 
 @media (max-width: 768px) {
     #main-header{
-        height: 20%
+        height: 20%;
     }
     #banner-text {
         font-size: 2em;
